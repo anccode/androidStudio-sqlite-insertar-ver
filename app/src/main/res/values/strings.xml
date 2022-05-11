@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">crudSqlite</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="correo">Correo:</string>
+    <string name="btnGuardar">guardar:</string>
+    <string name="menuNuevo">Nuevo Registro:</string>
+
+</resources>
